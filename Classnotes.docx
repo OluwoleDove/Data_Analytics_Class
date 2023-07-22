@@ -1,0 +1,16 @@
+NumPy, Pandas, Seaborn, and Matplotlib are four popular Python libraries that are used by data analysts to get good results.
+NumPy is a library for scientific computing and numerical analysis. It provides a high-performance multidimensional array object, as well as a variety of functions for working with arrays. This makes it ideal for working with large datasets.
+Pandas is a library for data analysis and manipulation. It provides a variety of tools for working with data, including reading and writing data from different sources, cleaning and transforming data, and analyzing data. This makes it ideal for working with data from a variety of sources.
+Seaborn is a library for statistical visualization. It provides a variety of high-quality and customizable charts and graphs. This makes it ideal for creating beautiful and informative visualizations of data.
+Matplotlib is a library for 2D plotting. It provides a variety of plotting functions, as well as a variety of customization options. This makes it ideal for creating custom plots and graphs.
+These four libraries can be used together to create powerful and effective data analysis pipelines. For example, you could use NumPy to read data from a CSV file, Pandas to clean and transform the data, Seaborn to create a visualization of the data, and Matplotlib to create a custom plot of the data.
+These libraries are all open source and free to use. They are also well-documented and have a large community of users and developers. This makes them a great choice for data analysts of all levels of experience.
+
+DATA SOURCE FOR DATA ANALYTICS VIDEO
+https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset 
+
+WORKING WITH MARKDOWN IN JUPITER LAB
+https://www.ibm.com/docs/en/db2-event-store/2.0.0?topic=notebooks-markdown-jupyter-cheatsheet 
+
+NUMPY DOCUMENTATION
+https://numpy.org/doc/stable/user/index.html#user 
